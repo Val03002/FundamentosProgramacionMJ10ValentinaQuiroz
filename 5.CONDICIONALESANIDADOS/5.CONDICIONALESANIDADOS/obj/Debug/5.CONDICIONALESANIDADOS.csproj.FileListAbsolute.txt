@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\bin\Debug\5.CONDICIONALESANIDADOS.exe.config
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\bin\Debug\5.CONDICIONALESANIDADOS.exe
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\bin\Debug\5.CONDICIONALESANIDADOS.pdb
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\obj\Debug\5.CONDICIONALESANIDADOS.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\obj\Debug\5.CONDICIONALESANIDADOS.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\obj\Debug\5.CONDICIONALESANIDADOS.exe
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\5.CONDICIONALESANIDADOS\5.CONDICIONALESANIDADOS\obj\Debug\5.CONDICIONALESANIDADOS.pdb
