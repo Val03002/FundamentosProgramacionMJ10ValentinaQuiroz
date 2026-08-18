@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\bin\Debug\7.CondicionalesTaller.exe.config
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\bin\Debug\7.CondicionalesTaller.exe
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\bin\Debug\7.CondicionalesTaller.pdb
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\obj\Debug\7.CondicionalesTaller.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\obj\Debug\7.CondicionalesTaller.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\obj\Debug\7.CondicionalesTaller.exe
+C:\Users\B09S104est\Documents\Valentina Quiroz\FundamentosProgramacionMJ10ValentinaQuiroz\7.CondicionalesTaller\7.CondicionalesTaller\obj\Debug\7.CondicionalesTaller.pdb
