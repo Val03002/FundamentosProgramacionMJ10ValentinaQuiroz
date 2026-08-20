@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\obj\Debug\Taller condicionales7.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\obj\Debug\Taller condicionales7.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\bin\Debug\Taller condicionales7.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\bin\Debug\Taller condicionales7.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\bin\Debug\Taller condicionales7.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\obj\Debug\Taller condicionales7.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Taller condicionales7\Taller condicionales7\obj\Debug\Taller condicionales7.pdb
