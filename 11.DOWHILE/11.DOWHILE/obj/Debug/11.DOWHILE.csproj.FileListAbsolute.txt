@@ -1,0 +1,8 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\bin\Debug\11.DOWHILE.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\bin\Debug\11.DOWHILE.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\bin\Debug\11.DOWHILE.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\obj\Debug\11.DOWHILE.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\obj\Debug\11.DOWHILE.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\obj\Debug\11.DOWHILE.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\obj\Debug\11.DOWHILE.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\11.DOWHILE\11.DOWHILE\obj\Debug\11.DOWHILE.exe.config
