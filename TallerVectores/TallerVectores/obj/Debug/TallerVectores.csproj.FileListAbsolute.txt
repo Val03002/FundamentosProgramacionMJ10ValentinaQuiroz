@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
