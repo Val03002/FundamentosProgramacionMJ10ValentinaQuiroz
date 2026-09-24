@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\bin\Debug\15.ArreglosBidimensionales.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\bin\Debug\15.ArreglosBidimensionales.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\bin\Debug\15.ArreglosBidimensionales.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\obj\Debug\15.ArreglosBidimensionales.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\obj\Debug\15.ArreglosBidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\obj\Debug\15.ArreglosBidimensionales.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\15.ArreglosBidimensionales\15.ArreglosBidimensionales\obj\Debug\15.ArreglosBidimensionales.pdb
