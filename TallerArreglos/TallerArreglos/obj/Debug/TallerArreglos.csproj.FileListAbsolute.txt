@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\bin\Debug\TallerArreglos.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\TallerArreglos\TallerArreglos\obj\Debug\TallerArreglos.pdb
