@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\bin\Debug\Pacial.2.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\bin\Debug\Pacial.2.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\bin\Debug\Pacial.2.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\obj\Debug\Pacial.2.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\obj\Debug\Pacial.2.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\obj\Debug\Pacial.2.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\Pacial.2\Pacial.2\obj\Debug\Pacial.2.pdb
