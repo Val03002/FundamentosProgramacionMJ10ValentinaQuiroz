@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\bin\Debug\12.CicloDoWhilee.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\bin\Debug\12.CicloDoWhilee.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\bin\Debug\12.CicloDoWhilee.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\obj\Debug\12.CicloDoWhilee.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\obj\Debug\12.CicloDoWhilee.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\obj\Debug\12.CicloDoWhilee.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\12.CicloDoWhilee\12.CicloDoWhilee\obj\Debug\12.CicloDoWhilee.pdb
