@@ -1,0 +1,7 @@
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\bin\Debug\14.TallerPreparacion.exe.config
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\bin\Debug\14.TallerPreparacion.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\bin\Debug\14.TallerPreparacion.pdb
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\obj\Debug\14.TallerPreparacion.csproj.AssemblyReference.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\obj\Debug\14.TallerPreparacion.csproj.CoreCompileInputs.cache
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\obj\Debug\14.TallerPreparacion.exe
+C:\Users\reden\source\repos\FundamentosProgramacionMJ10ValentinaQuiroz\14.TallerPreparacion\14.TallerPreparacion\obj\Debug\14.TallerPreparacion.pdb
